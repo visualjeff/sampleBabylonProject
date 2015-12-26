@@ -1,0 +1,18 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# ============ #
+# NPM generated #
+# ============ #
+npm-debug.log
+/node_modules
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+
