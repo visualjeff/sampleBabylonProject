@@ -1,8 +1,10 @@
 To setup a node.js http server to server up a Babylon app in the index.html:
 
+Install node.js
+
 Install connect and serve-static with NPM
 
-    $ npm install connect serve-static
+    $ npm install
 
 Create server.js file with this content:
 
