@@ -1,0 +1,21 @@
+{
+  "name": "sampleBabylonProject",
+  "version": "0.0.1",
+  "description": "Sample babylon project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/visualjeff/sampleBabylonProject.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "",
+  "bugs": {
+    "url": "https://github.com/visualjeff/sampleBabylonProject/issues"
+  }
+}
